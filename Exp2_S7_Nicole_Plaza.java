@@ -9,7 +9,6 @@ public class Exp2_S7_Nicole_Plaza {
     
     static double totalIngresos = 0;
     static int totalEntradasVendidas = 0;
-    
     static double descuento;
     
     static ArrayList<String> asientosReservados = new ArrayList<>();      
